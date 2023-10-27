@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.aor.numbers.FilterTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-10-20T13:07:34" hostname="dark" time="0.018">
+  <properties/>
+  <testcase name="filter_list()" classname="com.aor.numbers.FilterTest" time="0.012"/>
+  <testcase name="filter_divlist()" classname="com.aor.numbers.FilterTest" time="0.002"/>
+  <testcase name="filter_poslist()" classname="com.aor.numbers.FilterTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
